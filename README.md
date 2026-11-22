@@ -1,1 +1,1 @@
-# My-Island-FullscreenMod
+# MyTribe-ModKit
