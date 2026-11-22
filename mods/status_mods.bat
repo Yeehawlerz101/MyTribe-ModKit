@@ -1,0 +1,6 @@
+@echo off
+setlocal
+python "%~dp0mod_manager.py" status
+set "ERR=%errorlevel%"
+if /i not "%~1"=="--nopause" pause
+exit /b %ERR%

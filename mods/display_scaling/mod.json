@@ -1,0 +1,11 @@
+{
+  "name": "Display Scaling (Native / Resizable Window)",
+  "version": "1.0",
+  "description": "Borderless native fullscreen and resizable high-res windowed mode with OpenGL aspect-correct scaling and hotkeys (F11/Alt+Enter, F9, F10).",
+  "preserve_original_as": {
+    "SDL.dll": "SDL_orig.dll"
+  },
+  "cleanup_files": [
+    "mytribe_display.log"
+  ]
+}
